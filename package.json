@@ -1,0 +1,15 @@
+{
+  "name": "barberpro-saas",
+  "version": "0.1.0",
+  "private": true,
+  "packageManager": "pnpm@10",
+  "scripts": {
+    "dev": "turbo dev",
+    "build": "turbo build",
+    "lint": "turbo lint"
+  },
+  "devDependencies": {
+    "turbo": "latest",
+    "typescript": "latest"
+  }
+}
